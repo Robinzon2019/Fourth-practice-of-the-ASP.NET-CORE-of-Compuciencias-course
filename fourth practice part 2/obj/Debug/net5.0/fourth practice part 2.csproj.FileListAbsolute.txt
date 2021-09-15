@@ -1,0 +1,16 @@
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\bin\Debug\net5.0\fourth practice part 2.exe
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\bin\Debug\net5.0\fourth practice part 2.deps.json
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\bin\Debug\net5.0\fourth practice part 2.runtimeconfig.json
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\bin\Debug\net5.0\fourth practice part 2.runtimeconfig.dev.json
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\bin\Debug\net5.0\fourth practice part 2.dll
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\bin\Debug\net5.0\ref\fourth practice part 2.dll
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\bin\Debug\net5.0\fourth practice part 2.pdb
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\obj\Debug\net5.0\fourth practice part 2.csproj.AssemblyReference.cache
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\obj\Debug\net5.0\fourth practice part 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\obj\Debug\net5.0\fourth practice part 2.AssemblyInfoInputs.cache
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\obj\Debug\net5.0\fourth practice part 2.AssemblyInfo.cs
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\obj\Debug\net5.0\fourth practice part 2.csproj.CoreCompileInputs.cache
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\obj\Debug\net5.0\fourth practice part 2.dll
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\obj\Debug\net5.0\ref\fourth practice part 2.dll
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\obj\Debug\net5.0\fourth practice part 2.pdb
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice part 2\obj\Debug\net5.0\fourth practice part 2.genruntimeconfig.cache

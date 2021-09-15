@@ -1,0 +1,32 @@
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.exe
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.deps.json
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.runtimeconfig.json
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.runtimeconfig.dev.json
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.dll
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\bin\Debug\net5.0\ref\fourth practice.dll
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.pdb
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.csproj.AssemblyReference.cache
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.AssemblyInfoInputs.cache
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.AssemblyInfo.cs
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.csproj.CoreCompileInputs.cache
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.dll
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\obj\Debug\net5.0\ref\fourth practice.dll
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.pdb
+C:\Users\Robinson Montero\source\repos\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.genruntimeconfig.cache
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.exe
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.deps.json
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.runtimeconfig.json
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.runtimeconfig.dev.json
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\bin\Debug\net5.0\ref\fourth practice.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\bin\Debug\net5.0\fourth practice.pdb
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.csproj.AssemblyReference.cache
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.AssemblyInfoInputs.cache
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.AssemblyInfo.cs
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.csproj.CoreCompileInputs.cache
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\obj\Debug\net5.0\ref\fourth practice.dll
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.pdb
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\fourth practice\fourth practice\obj\Debug\net5.0\fourth practice.genruntimeconfig.cache

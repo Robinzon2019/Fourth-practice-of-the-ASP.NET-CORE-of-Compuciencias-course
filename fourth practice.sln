@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fourth practice", "fourth practice\fourth practice.csproj", "{FE34B121-7608-48B1-B206-8EC50838E309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fourth practice part 2", "fourth practice part 2\fourth practice part 2.csproj", "{B473C999-9B2C-45BE-8522-69CE3211C8B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE34B121-7608-48B1-B206-8EC50838E309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE34B121-7608-48B1-B206-8EC50838E309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE34B121-7608-48B1-B206-8EC50838E309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE34B121-7608-48B1-B206-8EC50838E309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B473C999-9B2C-45BE-8522-69CE3211C8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B473C999-9B2C-45BE-8522-69CE3211C8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B473C999-9B2C-45BE-8522-69CE3211C8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B473C999-9B2C-45BE-8522-69CE3211C8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCD2C8DE-6F66-4299-A13F-9469FBE14C7B}
+	EndGlobalSection
+EndGlobal
